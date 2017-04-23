@@ -1,0 +1,88 @@
+.right{
+    position: relative;
+}
+.sort{
+    width:120px;
+    background:#ececff;
+    padding:0 40px;
+    height:400px;
+    position: absolute;
+    right:0;
+    top:50px;
+}
+.sort li{
+    width:120px;
+    height:30px;
+    background:deepskyblue;
+    margin-top:10px;
+    line-height:30px;
+    text-align: center;
+}
+.book{
+    width:500px;
+    height:400px;
+    overflow-y: auto;
+    background:deepskyblue;
+    position: absolute;
+    left:100px;
+    top:50px;
+    padding:0 10px;
+    display: none;
+}
+.book li{
+    width:100px;
+    height:100px;
+    border:1px solid orange;
+    text-align: center;
+    margin-top:10px;
+    margin-left:19px;
+    float: left;
+}
+.bookname{
+    margin:20px 0;
+}
+.sort li:nth-child(1){
+    background: orange;
+}
+form{
+    width:300px;
+    background: cornflowerblue;
+    position: absolute;
+    left:200px;
+    top:100px;
+    padding:30px 50px;
+}
+input{
+    width:200px;
+    height:30px;
+    background:#fff;
+    opacity: 0.5;
+    border:none;
+    outline: none;
+    margin-left: 20px;
+    margin-top:20px;
+    border-radius: 5px;
+}
+.ltj,.lsc,.stj,.ssc{
+    margin-left:100px;
+    width:100px;
+    height:30px;
+    margin-top:50px;
+}
+.sm{
+    width:120px;
+    background:#ececff;
+    padding:0 40px;
+    height:400px;
+    position: absolute;
+    right:0;
+    top:50px;
+}
+.sm li{
+    width:120px;
+    height:30px;
+    background:deepskyblue;
+    margin-top:10px;
+    line-height:30px;
+    text-align: center;
+}

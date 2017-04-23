@@ -1,0 +1,59 @@
+
+
+table{
+    width:400px;
+    height:300px;
+    position: absolute;
+    left:200px;
+    top:100px;
+    border-collapse: collapse;
+}
+.bt{
+    text-align: center;
+    width:100px;
+    background: cornflowerblue;
+}
+.zhi{
+    width:200px;
+    text-align: center;
+}
+td{
+    border:1px solid gray;
+}
+form{
+    width:300px;
+    background: cornflowerblue;
+    position: absolute;
+    left:200px;
+    top:100px;
+    padding:30px 50px;
+}
+input{
+    width:200px;
+    height:30px;
+    background:#fff;
+    opacity: 0.5;
+    border:none;
+    outline: none;
+    margin-left: 20px;
+    margin-top:20px;
+    border-radius: 5px;
+}
+.anniu{
+    margin-left:100px;
+    width:100px;
+    height:30px;
+    margin-top:50px;
+}
+
+.qiehuan{
+    position: absolute;
+    top:435px;
+    left:360px;
+    width:100px;
+    height:30px;
+    background: deepskyblue;
+    color:#fff;
+    border:none;
+    border-radius: 10px;
+}
